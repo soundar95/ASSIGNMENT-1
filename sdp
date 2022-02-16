@@ -1,3 +1,8 @@
 WHAT IS STATIC AND DYNAMIC PROGRAMMING LANGUAGES?
   ANS:
    STATIC PROGRAMMING LANGUAGES:
+                 1. Type of the variables are declared during the start of the program
+                 2.By declaring it the errors can be caught at the first stage of compilation
+                 Examples:java,c,c++
+                 
+  DYNAMIC PROGRAMMING LANGUAGES
